@@ -24,4 +24,4 @@ The Generative AI-powered Log Analyzer accelerates production incident debugging
 6. Initiate the app: `streamlit run streamlitUI.py`
 
 ## Landing Page
-![image](https://github.com/mazumdarsoubhik/LogMentor/assets/44722027/4ba19e27-fe09-4490-87eb-d0b0cf2252b5)
+![image](https://github.com/ehhteshaam/LogMentor/blob/main/assets/LogMentor.png)
