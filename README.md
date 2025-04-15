@@ -11,7 +11,7 @@ The Generative AI-powered Log Analyzer accelerates production incident debugging
 
 ## Steps to Run
 
-1. Clone the repository: `git clone https://github.com/mazumdarsoubhik/LogMentor.git`'
+1. Clone the repository: `git clone https://github.com/ehhteshaam/LogMentor.git`'
 2. Go to the directory: `cd LogMentor`
 3. Create a new virtual environment, activate and install required libraries:
    
